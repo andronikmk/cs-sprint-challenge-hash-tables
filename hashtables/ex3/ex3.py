@@ -3,9 +3,11 @@ def intersection(arrays):
     YOUR CODE HERE
     """
     # Your code here
-
+    dictionary = {}
+    
+    
+    
     return result
-
 
 if __name__ == "__main__":
     arrays = []
