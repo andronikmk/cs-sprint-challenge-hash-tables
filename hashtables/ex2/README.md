@@ -10,6 +10,7 @@ Write a function `reconstruct_trip` to reconstruct your trip from your
 mass of flight tickets. Each ticket is represented as a class with the
 following form:
 
+
 ```
 class Ticket:
     def __init__(self, source, destination):
